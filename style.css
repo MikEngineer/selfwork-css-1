@@ -1,0 +1,26 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+h1, h2, h3, h4 {
+    font-family: "Electrolize", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(224, 195, 25);
+    background-color: #710dac;
+
+  }
+  
+  nav {
+    background-image: url(./media/bg\ css.jpg);
+  }
+
+  h3:hover {
+    background-color: red;
+  }
+  
+  h2:hover {
+    background-color: green;
+  }
